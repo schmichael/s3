@@ -5,4 +5,4 @@ its state persisted, and then loaded later (perhaps in a completely new
 process).
 
 Full documentation:
-http://godoc.org/github.com/kr/s3/s3util
+http://godoc.org/github.com/lytics/s3/s3util
